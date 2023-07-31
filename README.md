@@ -18,3 +18,5 @@ Using python to do sentiment analysis of the reviews from Amazon products.
 ![Screenshot 2023-07-22 170817](https://github.com/GerardRosario/PythonSentimentAnalysis/assets/55461102/80320af5-9078-4486-aa8e-9a5dc137193f)
 
 ![Sent1](https://github.com/GerardRosario/PythonSentimentAnalysis/assets/55461102/a6c4fa49-2503-476d-a880-13f225f1973c)
+
+![Sent2](https://github.com/GerardRosario/PythonSentimentAnalysis/assets/55461102/535aa493-e97f-4467-a619-8b13ca506b66)
