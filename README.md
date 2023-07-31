@@ -20,3 +20,5 @@ Using python to do sentiment analysis of the reviews from Amazon products.
 ![Sent1](https://github.com/GerardRosario/PythonSentimentAnalysis/assets/55461102/a6c4fa49-2503-476d-a880-13f225f1973c)
 
 ![Sent2](https://github.com/GerardRosario/PythonSentimentAnalysis/assets/55461102/535aa493-e97f-4467-a619-8b13ca506b66)
+
+![Sent3](https://github.com/GerardRosario/PythonSentimentAnalysis/assets/55461102/194e2d23-b3f8-421d-bcc6-ebcba68bfad9)
